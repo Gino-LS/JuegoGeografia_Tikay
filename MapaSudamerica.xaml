@@ -1,0 +1,111 @@
+﻿<Window x:Class="JuegoGeografia.MapaSudamerica"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MapaSudamerica" Height="450" Width="800">
+
+    <Grid>
+
+        <!-- Fondo de la ventana -->
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/FondoMapa.png" Stretch="Fill" />
+        </Grid.Background>
+
+
+        <!-- Imagen del mapa -->
+        <Image Name="imgMapa" Source="Images/mapa_latinoamerica.png"
+               Stretch="Uniform"
+               HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+
+        <!-- Botón "Atrás" -->
+        <Image Source="Images/Atras.png" 
+               Width="50" Height="50" 
+               HorizontalAlignment="Left" VerticalAlignment="Top" 
+               Margin="10" Cursor="Hand" 
+               MouseDown="Atras_Click"/>
+
+        <!-- Avatar y nombre del usuario -->
+        <StackPanel Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,110,0,0">
+            <!-- Imagen del avatar -->
+            <Image Name="imgAvatar" Width="150" Height="150" HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+            <!-- Rectángulo decorativo con el nombre del usuario -->
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Background="#00FF7F" Margin="0,0,0,0">
+                <TextBlock Name="txtUsuario" Text="Nombre de Usuario" 
+                   FontSize="20" FontWeight="Bold" Foreground="White" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" 
+                   Margin="10" FontFamily="Arial">
+                    <TextBlock.Effect>
+                        <!-- Sombra para el texto -->
+                        <DropShadowEffect Color="Black" BlurRadius="4" ShadowDepth="2"/>
+                    </TextBlock.Effect>
+                </TextBlock>
+            </Border>
+        </StackPanel>
+
+
+        <!-- Círculos invisibles para los países -->
+        <Ellipse Name="btnPeru" Width="40" Height="40" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="297,135,0,0" MouseDown="Country_Click" Tag="Perú" RenderTransformOrigin="4.405,0.948" />
+
+        <Ellipse Name="btnBrasil" Width="118" Height="70" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="410,105,0,0" MouseDown="Country_Click" Tag="Brasil" />
+
+        <Ellipse Name="btnChile" Width="30" Height="145" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="287,197,0,0" MouseDown="Country_Click" Tag="Chile" />
+
+        <Ellipse Name="btnArgentina" Width="50" Height="133" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="327,232,0,0" MouseDown="Country_Click" Tag="Argentina" />
+
+        <Ellipse Name="btnBolivia" Width="40" Height="62" Fill="Transparent"
+         HorizontalAlignment="Left" VerticalAlignment="Top"
+         Margin="370,165,0,0" MouseDown="Country_Click" Tag="Bolivia" />
+
+        <Ellipse Name="btnEcuador" Width="30" Height="30" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="285,95,0,0" MouseDown="Country_Click" Tag="Ecuador" />
+
+        <Ellipse Name="btnColombia" Width="40" Height="50" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="302,45,0,0" MouseDown="Country_Click" Tag="Colombia" />
+
+        <Ellipse Name="btnVenezuela" Width="53" Height="30" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="347,23,0,0" MouseDown="Country_Click" Tag="Venezuela" />
+
+        <Ellipse Name="btnParaguay" Width="30" Height="30" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="410,217,0,0" MouseDown="Country_Click" Tag="Paraguay" />
+
+        <Ellipse Name="btnUruguay" Width="30" Height="30" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="440,260,0,0" MouseDown="Country_Click" Tag="Uruguay" />
+
+        <Ellipse Name="btnGuyana" Width="30" Height="40" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="420,38,0,0" MouseDown="Country_Click" Tag="Guyana" />
+
+        <Ellipse Name="btnSurinam" Width="20" Height="30" Fill="Transparent"
+                 HorizontalAlignment="Left" VerticalAlignment="Top"
+                 Margin="450,40,0,0" MouseDown="Country_Click" Tag="Surinam" />
+
+        <!-- Botón de Sonido -->
+        <Button Name="btnSound" 
+        Width="50" Height="50" 
+        HorizontalAlignment="Right" VerticalAlignment="Top" 
+        Margin="10" 
+        Click="btnSound_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Image Source="Images/Sonido_OFF.png" Stretch="Uniform" />
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+    </Grid>
+</Window>

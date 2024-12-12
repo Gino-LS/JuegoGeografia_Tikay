@@ -1,0 +1,147 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="4sfjexbb.r0h~" />
+    <None Remove="Images\Atras.png" />
+    <None Remove="Images\avatarh1.png" />
+    <None Remove="Images\avatarh2.png" />
+    <None Remove="Images\avatarh3.png" />
+    <None Remove="Images\avatarm1.png" />
+    <None Remove="Images\avatarm2.png" />
+    <None Remove="Images\avatarm3.png" />
+    <None Remove="Images\correr.png" />
+    <None Remove="Images\Cuadro.png" />
+    <None Remove="Images\Final.png" />
+    <None Remove="Images\finish.png" />
+    <None Remove="Images\Fondo.png" />
+    <None Remove="Images\FondoGameOver.png" />
+    <None Remove="Images\FondoMapa.png" />
+    <None Remove="Images\FondoPreguntas.png" />
+    <None Remove="Images\Home.png" />
+    <None Remove="Images\Logo.png" />
+    <None Remove="Images\mapa_latinoamerica.png" />
+    <None Remove="Images\niño-corre-celeste.mp4" />
+    <None Remove="Images\NumeroPreguntas.png" />
+    <None Remove="Images\Personajes.png" />
+    <None Remove="Images\pikachu.gif" />
+    <None Remove="Images\pixel_frame1.png" />
+    <None Remove="Images\pixel_frame2.png" />
+    <None Remove="Images\pixel_frame3.png" />
+    <None Remove="Images\pixel_frame4.png" />
+    <None Remove="Images\Puntos.png" />
+    <None Remove="Images\Return.png" />
+    <None Remove="Images\Sonido_off.png" />
+    <None Remove="Images\Sonido_oN.png" />
+    <None Remove="Images\Sound.mp3" />
+    <None Remove="Images\Tiempo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\Atras.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\avatarh1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\avatarh2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\avatarh3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\avatarm1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\avatarm2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\avatarm3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\correr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Cuadro.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Final.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Fondo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\FondoGameOver.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\FondoMapa.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\FondoPreguntas.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Home.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\mapa_latinoamerica.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\NumeroPreguntas.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Personajes.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\pikachu.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\pixel_frame1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\pixel_frame2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\pixel_frame3.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\pixel_frame4.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Puntos.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Return.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Sonido_off.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Sonido_oN.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Sound.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Tiempo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="9.0.0" />
+    <PackageReference Include="MySql.Data" Version="9.1.0" />
+    <PackageReference Include="SharpVectors" Version="1.8.4.2" />
+    <PackageReference Include="WpfAnimatedGif" Version="2.0.2" />
+  </ItemGroup>
+
+</Project>

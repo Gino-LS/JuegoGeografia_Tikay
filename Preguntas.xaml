@@ -1,0 +1,215 @@
+﻿<Window x:Class="JuegoGeografia.Preguntas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        Title="Preguntas" Height="600" Width="900">
+    <Window.Background>
+        <ImageBrush ImageSource="Images/FondoPreguntas.png" Stretch="Fill" />
+    </Window.Background>
+    <Grid>
+
+        <!-- Botón de Sonido -->
+        <Button Name="btnSound" 
+        Width="50" Height="50" 
+        HorizontalAlignment="Right" VerticalAlignment="Top" 
+        Margin="10" 
+        Click="btnSound_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Image Source="Images/Sonido_OFF.png" Stretch="Uniform" />
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+
+        <!-- Imagen del mapa -->
+        <Image Name="imgmapa_latinoamerica" Source="Images/final.png"
+               Stretch="UniformToFill" Margin="818,400,0,92" />
+
+        <!-- Cabecera con Tiempo, Puntos y Número de Preguntas -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="20,10,20,0">
+            <StackPanel Margin="15,0">
+                <Image Source="Images/Tiempo.png" Width="50" Height="50" />
+                <TextBlock Name="txtTiempo" Text="Tiempo: 20 seg" Foreground="Black" FontWeight="Bold"
+                           HorizontalAlignment="Center" FontSize="18" />
+            </StackPanel>
+            <StackPanel Margin="15,0">
+                <Image Source="Images/Puntos.png" Width="50" Height="50" />
+                <TextBlock Name="txtPuntos" Text="Puntos: 0" Foreground="Black" FontWeight="Bold"
+                           HorizontalAlignment="Center" FontSize="18" />
+            </StackPanel>
+            <StackPanel Margin="15,0">
+                <Image Source="Images/NumeroPreguntas.png" Width="50" Height="50" />
+                <TextBlock Name="txtNumeroPreguntas" Text="1/15" Foreground="Black" FontWeight="Bold"
+                           HorizontalAlignment="Center" FontSize="18" />
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Cuadro de la pregunta -->
+        <Border CornerRadius="15" BorderThickness="4" BorderBrush="White"
+        HorizontalAlignment="Center" VerticalAlignment="Top" Padding="10" Margin="0,95,0,0" Width="574">
+            <!-- Fondo blanco para el borde exterior -->
+            <Border.Background>
+                <SolidColorBrush Color="White" />
+            </Border.Background>
+
+            <!-- Borde interior (rojo delgado) -->
+            <Border CornerRadius="10" BorderThickness="1.5" BorderBrush="#FF4A4A"
+            Background="White" Padding="10">
+                <!-- Texto de la pregunta -->
+                <TextBlock Name="txtPregunta" Text="Aquí aparecerá la pregunta"
+                   FontSize="22" FontWeight="SemiBold" Foreground="#212121"
+                   HorizontalAlignment="Center" VerticalAlignment="Center"
+                   FontFamily="Arial" TextWrapping="Wrap" TextAlignment="Center">
+                    <TextBlock.Effect>
+                        <DropShadowEffect Color="Black" BlurRadius="1" ShadowDepth="0.5" />
+                    </TextBlock.Effect>
+                </TextBlock>
+            </Border>
+        </Border>
+        
+
+
+        <!-- Opciones -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,70,0,50">
+            <Button Name="opcion1" Width="400" Height="50" FontSize="18"
+                    BorderThickness="0" FontWeight="Bold" Margin="0,0" Click="Opcion_Click">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border CornerRadius="25" BorderThickness="2" BorderBrush="#D2691E">
+                                <Border.Background>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                        <GradientStop Color="#FFC107" Offset="0.0" />
+                                        <GradientStop Color="#FF9800" Offset="1.0" />
+                                    </LinearGradientBrush>
+                                </Border.Background>
+                            </Border>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                              TextBlock.Foreground="White" TextBlock.FontFamily="Arial Black" />
+                        </Grid>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <Button Name="opcion2" Width="400" Height="50" FontSize="18"
+                    BorderThickness="0" FontWeight="Bold" Margin="0,10" Click="Opcion_Click">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border CornerRadius="25" BorderThickness="2" BorderBrush="#D2691E">
+                                <Border.Background>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                        <GradientStop Color="#FFC107" Offset="0.0" />
+                                        <GradientStop Color="#FF9800" Offset="1.0" />
+                                    </LinearGradientBrush>
+                                </Border.Background>
+                            </Border>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                              TextBlock.Foreground="White" TextBlock.FontFamily="Arial Black" />
+                        </Grid>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <Button Name="opcion3" Width="400" Height="50" FontSize="18"
+                    BorderThickness="0" FontWeight="Bold" Margin="0,0" Click="Opcion_Click">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border CornerRadius="25" BorderThickness="2" BorderBrush="#D2691E">
+                                <Border.Background>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                        <GradientStop Color="#FFC107" Offset="0.0" />
+                                        <GradientStop Color="#FF9800" Offset="1.0" />
+                                    </LinearGradientBrush>
+                                </Border.Background>
+                            </Border>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                              TextBlock.Foreground="White" TextBlock.FontFamily="Arial Black" />
+                        </Grid>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+
+        
+
+        <!-- Animación de Pikachu -->
+        <Image Name="AnimatedImage"
+               Width="100" Height="100"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Bottom"
+               Margin="5,0,0,91">
+            <Image.Triggers>
+                <EventTrigger RoutedEvent="Image.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Source" Duration="0:0:1.6">
+                                <DiscreteObjectKeyFrame KeyTime="0:0:0">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <BitmapImage UriSource="Images/pixel_frame1.png" />
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:0.4">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <BitmapImage UriSource="Images/pixel_frame2.png" />
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:0.8">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <BitmapImage UriSource="Images/pixel_frame3.png" />
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                                <DiscreteObjectKeyFrame KeyTime="0:0:1.2">
+                                    <DiscreteObjectKeyFrame.Value>
+                                        <BitmapImage UriSource="Images/pixel_frame4.png" />
+                                    </DiscreteObjectKeyFrame.Value>
+                                </DiscreteObjectKeyFrame>
+                            </ObjectAnimationUsingKeyFrames>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Image.Triggers>
+        </Image>
+
+
+        <!-- Botón "Seleccionar otro país" -->
+        <Button Content="Seleccionar otro país" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+        Margin="0,0,30,30" Width="247" Height="44" FontSize="20" Foreground="White"
+        FontFamily="Comic Sans MS" Click="btnSelectCountry_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <!-- Fondo del botón -->
+                        <Border CornerRadius="40" BorderThickness="5" BorderBrush="#00BFFF">
+                            <Border.Background>
+                                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                    <GradientStop Color="#4FC3F7" Offset="0.0" />
+                                    <GradientStop Color="#0288D1" Offset="1.0" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                        </Border>
+
+                        <!-- Texto del botón -->
+                        <TextBlock Text="{TemplateBinding Content}" 
+                           Foreground="White" FontWeight="Bold" 
+                           HorizontalAlignment="Center" VerticalAlignment="Center" 
+                           FontFamily="Comic Sans MS" FontSize="20">
+                            <TextBlock.Effect>
+                                <!-- Sombra para el texto -->
+                                <DropShadowEffect Color="Black" BlurRadius="4" ShadowDepth="2"/>
+                            </TextBlock.Effect>
+                        </TextBlock>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        
+     
+        
+
+    </Grid>
+</Window>
+

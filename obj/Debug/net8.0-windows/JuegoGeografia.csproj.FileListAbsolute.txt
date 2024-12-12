@@ -1,0 +1,563 @@
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.exe
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.deps.json
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.runtimeconfig.json
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.pdb
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.g.resources
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\refint\JuegoGeografia.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.pdb
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\ref\JuegoGeografia.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\MapaSudamerica.g.cs
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\SeleccionAvatar.g.cs
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\Preguntas.g.cs
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Converters.Wpf.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Core.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Css.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Dom.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Model.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Rendering.Gdi.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Rendering.Wpf.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Runtime.Wpf.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.Odbc.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\MapaSudamerica.baml
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\Preguntas.baml
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\SeleccionAvatar.baml
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeo.1195103F.Up2Date
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia_Content.g.cs
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Images\Fondo.png
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh1.png
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh2.png
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh3.png
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm1.png
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm2.png
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm3.png
+C:\Users\USUARIO\source\repos\JuegoGeografia\JuegoGeografia\bin\Debug\net8.0-windows\Images\mapa_latinoamerica.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.exe
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Atras.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh1.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh2.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh3.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm1.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm2.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm3.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\correr.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Cuadro.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Final.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Fondo.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\FondoGameOver.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\FondoMapa.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\FondoPreguntas.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Home.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Logo.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\mapa_latinoamerica.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\NumeroPreguntas.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Personajes.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\pikachu.gif
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\pixel_frame1.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\pixel_frame2.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\pixel_frame3.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\pixel_frame4.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Puntos.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Return.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Sonido_off.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Sonido_oN.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Sound.mp3
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Images\Tiempo.png
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.deps.json
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.runtimeconfig.json
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.pdb
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Win32.Registry.AccessControl.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Converters.Wpf.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Core.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Css.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Dom.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Model.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Rendering.Gdi.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Rendering.Wpf.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Runtime.Wpf.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.CodeDom.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Ports.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Management.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Speech.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Text.Encoding.CodePages.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.Odbc.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+E:\SOFTWARE III\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.csproj.AssemblyReference.cache
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\GameOver.baml
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\MainWindow.baml
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\MapaSudamerica.baml
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\Preguntas.baml
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\SeleccionAvatar.baml
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\GameOver.g.cs
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\MapaSudamerica.g.cs
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\Preguntas.g.cs
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\SeleccionAvatar.g.cs
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\App.g.cs
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia_Content.g.cs
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia_MarkupCompile.cache
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.g.resources
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.GeneratedMSBuildEditorConfig.editorconfig
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.AssemblyInfoInputs.cache
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.AssemblyInfo.cs
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.csproj.CoreCompileInputs.cache
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeo.1195103F.Up2Date
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.dll
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\refint\JuegoGeografia.dll
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.pdb
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.genruntimeconfig.cache
+E:\SOFTWARE III\JuegoGeografia\obj\Debug\net8.0-windows\ref\JuegoGeografia.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.exe
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Atras.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh1.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh2.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarh3.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm1.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm2.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\avatarm3.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\correr.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Cuadro.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Final.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Fondo.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\FondoGameOver.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\FondoMapa.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\FondoPreguntas.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Home.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Logo.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\mapa_latinoamerica.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\NumeroPreguntas.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Personajes.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\pikachu.gif
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\pixel_frame1.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\pixel_frame2.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\pixel_frame3.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\pixel_frame4.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Puntos.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Return.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Sonido_off.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Sonido_oN.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Sound.mp3
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Images\Tiempo.png
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.deps.json
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\JuegoGeografia.pdb
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Converters.Wpf.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Core.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Css.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Dom.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Model.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Rendering.Gdi.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Rendering.Wpf.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\SharpVectors.Runtime.Wpf.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.Odbc.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Reflection.Context.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Web.Services.Description.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\WpfAnimatedGif.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.Odbc.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\GameOver.baml
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\MapaSudamerica.baml
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\Preguntas.baml
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\SeleccionAvatar.baml
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\GameOver.g.cs
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\MapaSudamerica.g.cs
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\Preguntas.g.cs
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\SeleccionAvatar.g.cs
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia_Content.g.cs
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia_MarkupCompile.cache
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.g.resources
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeo.1195103F.Up2Date
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\refint\JuegoGeografia.dll
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.pdb
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\JuegoGeografia.genruntimeconfig.cache
+C:\Users\USUARIO\Downloads\Juego\JuegoGeografia\obj\Debug\net8.0-windows\ref\JuegoGeografia.dll

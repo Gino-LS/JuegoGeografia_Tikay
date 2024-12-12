@@ -1,0 +1,70 @@
+﻿<Window x:Class="JuegoGeografia.GameOver"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Game Over" Height="450" Width="800">
+    <Window.Background>
+        <ImageBrush ImageSource="Images/FondoGameOver.png" Stretch="Fill" />
+    </Window.Background>
+
+    <Grid>
+
+        <!-- Botón de Sonido -->
+        <Button Name="btnSound" 
+        Width="50" Height="50" 
+        HorizontalAlignment="Right" VerticalAlignment="Top" 
+        Margin="10" 
+        Click="btnSound_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Image Source="Images/Sonido_OFF.png" Stretch="Uniform" />
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+        <!-- Cuadro central con la imagen -->
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="400" Height="300">
+            <!-- Imagen Cuadro -->
+            <Image Source="Images/Cuadro.png" Stretch="Fill" />
+
+            <!-- Contenido alineado al centro -->
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <!-- Título Felicidades -->
+                <TextBlock Text="¡Felicidades!" FontSize="24" FontWeight="Bold" 
+                           Foreground="Black" TextAlignment="Center" Margin="0,10" />
+
+                <!-- Puntos -->
+                <TextBlock Name="txtPuntosFinales" Text="Puntos: 0" FontSize="20" 
+                           Foreground="Black" TextAlignment="Center" Margin="0,10" />
+
+                <!-- Tiempo -->
+                <TextBlock Name="txtTiempoFinal" Text="Tiempo: 0 min" FontSize="20" 
+                           Foreground="Black" TextAlignment="Center" Margin="0,10" />
+            </StackPanel>
+        </Grid>
+
+        <!-- Botones en la parte inferior -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,20">
+            <!-- Botón "Return" -->
+            <Button Width="100" Height="100" Background="Transparent" BorderThickness="0" Cursor="Hand" Click="Return_Click" FocusVisualStyle="{x:Null}" Margin="10">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Image Source="Images/Return.png" Stretch="Fill" />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            
+
+
+            <!-- Botón "Home" -->
+            <Button Width="100" Height="100" Background="Transparent" BorderThickness="0" Cursor="Hand" Click="Home_Click" FocusVisualStyle="{x:Null}" Margin="10">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Image Source="Images/Home.png" Stretch="Fill" />
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
+
