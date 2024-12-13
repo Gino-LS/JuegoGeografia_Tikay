@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuegoGeografia_Tikay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9136ccebb34309982d693ec2522bfc3473a1456a")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuegoGeografia_Tikay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuegoGeografia_Tikay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

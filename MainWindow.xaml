@@ -107,6 +107,13 @@
         </StackPanel>
 
         <!-- Botón de Sonido -->
+        <Button Content="Abrir Índice"
+        Width="112" 
+        FontSize="16" 
+        HorizontalAlignment="Left" 
+        Margin="10,10,0,352"
+        Click="btnOpenIndex_Click"/>
+
         <Button Name="btnSound" 
         Width="50" Height="50" 
         HorizontalAlignment="Right" VerticalAlignment="Top" 
@@ -118,6 +125,7 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
+
 
 
     </Grid>

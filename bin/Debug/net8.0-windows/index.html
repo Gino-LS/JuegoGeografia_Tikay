@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juego Geografía Tikay</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #4facfe, #00f2fe);
+            color: #ffffff;
+            text-align: center;
+        }
+        header {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 3rem;
+        }
+        p {
+            font-size: 1.2rem;
+        }
+        .container {
+            margin: 50px auto;
+            max-width: 800px;
+        }
+        select {
+            padding: 10px;
+            font-size: 1.2rem;
+            margin: 20px 0;
+            border-radius: 5px;
+            border: none;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ffcc00;
+            color: #000;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #ffaa00;
+        }
+        #country-info {
+            margin-top: 30px;
+            font-size: 1.5rem;
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Juego Geografía Tikay</h1>
+        <p>Explora los países de Sudamérica y aprende más sobre ellos.</p>
+    </header>
+    <div class="container">
+        <p>Selecciona un país del menú desplegable:</p>
+        <select id="country-select">
+            <option value="">-- Selecciona un país --</option>
+            <option value="Perú">Perú</option>
+            <option value="Chile">Chile</option>
+            <option value="Bolivia">Bolivia</option>
+            <option value="Ecuador">Ecuador</option>
+            <option value="Colombia">Colombia</option>
+            <option value="Venezuela">Venezuela</option>
+            <option value="Paraguay">Paraguay</option>
+            <option value="Uruguay">Uruguay</option>
+            <option value="Brasil">Brasil</option>
+            <option value="Argentina">Argentina</option>
+        </select>
+        <button class="button" onclick="showCountryInfo()">Ver Información</button>
+        <div id="country-info"></div>
+    </div>
+    <script>
+        const countryData = {
+            "Perú": {
+                capital: "Lima",
+                moneda: "Sol",
+                descripcion: "Famoso por Machu Picchu y su rica gastronomía."
+            },
+            "Chile": {
+                capital: "Santiago",
+                moneda: "Peso chileno",
+                descripcion: "Conocido por el desierto de Atacama y sus vinos."
+            },
+            "Bolivia": {
+                capital: "Sucre (constitucional), La Paz (sede de gobierno)",
+                moneda: "Boliviano",
+                descripcion: "Hogar del Salar de Uyuni y la cultura Tiahuanaco."
+            },
+            "Ecuador": {
+                capital: "Quito",
+                moneda: "Dólar estadounidense",
+                descripcion: "Famoso por las Islas Galápagos y la línea del ecuador."
+            },
+            "Colombia": {
+                capital: "Bogotá",
+                moneda: "Peso colombiano",
+                descripcion: "Conocido por su café, biodiversidad y Carnaval de Barranquilla."
+            },
+            "Venezuela": {
+                capital: "Caracas",
+                moneda: "Bolívar",
+                descripcion: "Hogar del Salto Ángel y una rica cultura petrolera."
+            },
+            "Paraguay": {
+                capital: "Asunción",
+                moneda: "Guaraní",
+                descripcion: "Famoso por el Chaco y su rica cultura tradicional."
+            },
+            "Uruguay": {
+                capital: "Montevideo",
+                moneda: "Peso uruguayo",
+                descripcion: "Conocido por su producción de carne y playas en Punta del Este."
+            },
+            "Brasil": {
+                capital: "Brasilia",
+                moneda: "Real",
+                descripcion: "Famoso por el Amazonas, el Carnaval de Río y su fútbol."
+            },
+            "Argentina": {
+                capital: "Buenos Aires",
+                moneda: "Peso argentino",
+                descripcion: "Hogar del tango, el Aconcagua y la Patagonia."
+            }
+        };
+
+        function showCountryInfo() {
+            const selectedCountry = document.getElementById("country-select").value;
+            const infoDiv = document.getElementById("country-info");
+
+            if (selectedCountry && countryData[selectedCountry]) {
+                const data = countryData[selectedCountry];
+                infoDiv.innerHTML = `
+                    <h2>${selectedCountry}</h2>
+                    <p><strong>Capital:</strong> ${data.capital}</p>
+                    <p><strong>Moneda:</strong> ${data.moneda}</p>
+                    <p>${data.descripcion}</p>
+                `;
+            } else {
+                infoDiv.innerHTML = `<p>Por favor, selecciona un país.</p>`;
+            }
+        }
+    </script>
+</body>
+</html>

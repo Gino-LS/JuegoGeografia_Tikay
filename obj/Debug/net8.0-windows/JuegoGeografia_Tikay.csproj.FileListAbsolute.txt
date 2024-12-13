@@ -390,3 +390,5 @@ C:\Users\USUARIO\source\repos\JuegoGeografiaFinal\obj\Debug\net8.0-windows\refin
 C:\Users\USUARIO\source\repos\JuegoGeografiaFinal\obj\Debug\net8.0-windows\JuegoGeografia_Tikay.pdb
 C:\Users\USUARIO\source\repos\JuegoGeografiaFinal\obj\Debug\net8.0-windows\JuegoGeografia_Tikay.genruntimeconfig.cache
 C:\Users\USUARIO\source\repos\JuegoGeografiaFinal\obj\Debug\net8.0-windows\ref\JuegoGeografia_Tikay.dll
+C:\Users\USUARIO\source\repos\JuegoGeografiaFinal\obj\Debug\net8.0-windows\JuegoGeografia_Tikay.sourcelink.json
+C:\Users\USUARIO\source\repos\JuegoGeografiaFinal\bin\Debug\net8.0-windows\index.html

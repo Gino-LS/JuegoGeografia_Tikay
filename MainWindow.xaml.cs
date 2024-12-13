@@ -43,6 +43,23 @@ namespace JuegoGeografia
             }
         }
 
+        private void btnOpenIndex_Click(object sender, RoutedEventArgs e)
+        {
+            string filePath = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "index.html");
+            if (System.IO.File.Exists(filePath))
+            {
+                System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
+                {
+                    FileName = filePath,
+                    UseShellExecute = true
+                });
+            }
+            else
+            {
+                MessageBox.Show("El archivo index.html no se encontró.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
 
 
         private bool isSoundOn = false; // Estado inicial del sonido apagado

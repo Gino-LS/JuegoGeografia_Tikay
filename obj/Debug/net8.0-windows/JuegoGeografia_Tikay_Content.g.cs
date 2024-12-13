@@ -38,5 +38,6 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/sonido_on.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/sound.mp3")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/tiempo.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("index.html")]
 
 
